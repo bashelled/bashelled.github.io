@@ -1,5 +1,5 @@
-## Welcome to Bashelled
+# Site
 
-This is under maintence, for now here's a link to my profile:
+Just the site.
 
-[Go](https://github.com/bashelled)
+That's it.
